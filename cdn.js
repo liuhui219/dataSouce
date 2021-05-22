@@ -1,6 +1,6 @@
 (function (window) {
   window.dataCdn = {
-    data: "html",
+    data: "html.",
     note: "此为备用CDN，暂时未使用",
     "index.html": "/index.html",
     react: "https://unpkg.com/react@16/umd/react.development.js",
