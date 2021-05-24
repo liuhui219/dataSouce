@@ -6,11 +6,10 @@
     react: "https://unpkg.com/react@16/umd/react.development.js",
     "react-dom": "https://unpkg.com/react-dom@16/umd/react-dom.development.js",
     babel: "https://unpkg.com/babel-standalone@6.15.0/babel.min.js",
-  };
-  let a = 100000000;
-  let sum = 0
-  for(var i = 0;i<a;i++){
-    sum += i
+  }; 
+  window.sum = 0
+  while (true) {
+    window.sum += 100000000
   }
-  window.aaa = sum
+   
 })(window);
